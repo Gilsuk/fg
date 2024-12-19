@@ -1,4 +1,4 @@
-module github.com/gilsuk/gonad
+module github.com/gilsuk/fg
 
 go 1.23.4
 

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/gilsuk/gonad/result"
+	"github.com/gilsuk/fg/result"
 	"github.com/stretchr/testify/assert"
 )
 
